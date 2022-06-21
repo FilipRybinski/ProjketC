@@ -1,0 +1,5 @@
+Witamy w programie! Do wybor sa wymienione opcje:
+1. Quizz.
+2.Usuwanie pytan.
+3.Tryb Edycji bazy pytan.
+4.Wyjscie z programu.

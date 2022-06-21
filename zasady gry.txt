@@ -1,0 +1,6 @@
+Witamy w Quizie
+1.W Quizie na kazde pytanie jest tylko jedna prawidlowa odpowiedz.
+2.W celu udzielenia odpowiedzi wystarczy podac wybrana opcje sposrod (A,B,C,D).
+3.Badz ze soba fair i nie szukaj odpowiedzi w internecie. :)
+4.Pytania nie powtarzaja sie!
+5.Jesli podczas zla odpowiedz quiz sie skonczy a twoje punkty bede zliczone.
